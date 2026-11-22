@@ -1,0 +1,202 @@
+{
+"source": "https://www.oref.org.il/alerts/alertCategories.json",
+"fetched": "2026-11-22",
+"categories": [
+{
+"id": 1,
+"category": "missilealert",
+"matrix_id": 1,
+"eng": "Missiles",
+"heb": "ירי רקטות וטילים"
+},
+{
+"id": 2,
+"category": "uav",
+"matrix_id": 6,
+"eng": "Hostile aircraft intrusion",
+"heb": "חדירת כלי טיס עוין"
+},
+{
+"id": 3,
+"category": "nonconventional",
+"matrix_id": 2,
+"eng": "Non conventional",
+"heb": "ירי בלתי קונבנציונלי"
+},
+{
+"id": 4,
+"category": "warning",
+"matrix_id": 8,
+"eng": "Alert",
+"heb": "התרעה"
+},
+{
+"id": 5,
+"category": "memorialday1",
+"matrix_id": 2,
+"eng": "Memorial day 1",
+"heb": "יום הזיכרון 1"
+},
+{
+"id": 6,
+"category": "memorialday2",
+"matrix_id": 2,
+"eng": "Memorial day 2",
+"heb": "יום הזיכרון 2"
+},
+{
+"id": 7,
+"category": "earthquakealert1",
+"matrix_id": 3,
+"eng": "Earthquake alert",
+"heb": "רעידת אדמה"
+},
+{
+"id": 8,
+"category": "earthquakealert2",
+"matrix_id": 3,
+"eng": "Earthquake alert",
+"heb": "רעידת אדמה"
+},
+{
+"id": 9,
+"category": "cbrne",
+"matrix_id": 4,
+"eng": "Radiological event",
+"heb": "אירוע רדיולוגי"
+},
+{
+"id": 10,
+"category": "terrorattack",
+"matrix_id": 13,
+"eng": "Terrorist infiltration",
+"heb": "חדירת מחבלים"
+},
+{
+"id": 11,
+"category": "tsunami",
+"matrix_id": 5,
+"eng": "Tsunami",
+"heb": "צונאמי"
+},
+{
+"id": 12,
+"category": "hazmat",
+"matrix_id": 7,
+"eng": "Hazardous Materials Event",
+"heb": "אירוע חומרים מסוכנים"
+},
+{
+"id": 13,
+"category": "update",
+"matrix_id": 10,
+"eng": "Update",
+"heb": "עדכון"
+},
+{
+"id": 14,
+"category": "flash",
+"matrix_id": 10,
+"eng": "flash",
+"heb": "מבזק"
+},
+{
+"id": 15,
+"category": "missilealertdrill",
+"matrix_id": 101,
+"eng": "Rocket and missile fire drill",
+"heb": "תרגיל ירי רקטות וטילים"
+},
+{
+"id": 16,
+"category": "uavdrill",
+"matrix_id": 106,
+"eng": "תרגיל חדירת כלי טיס עוין",
+"heb": "תרגיל חדירת כלי טיס עוין"
+},
+{
+"id": 17,
+"category": "nonconventionaldrill",
+"matrix_id": 102,
+"eng": "Non-conventional drill",
+"heb": "תרגיל לוחמה לא קונבציונלית"
+},
+{
+"id": 18,
+"category": "warningdrill",
+"matrix_id": 102,
+"eng": "תרגיל התרעה",
+"heb": "תרגיל התרעה"
+},
+{
+"id": 19,
+"category": "memorialdaydrill1",
+"matrix_id": 102,
+"eng": "תרגיל יום הזיכרון",
+"heb": "תרגיל יום הזיכרון"
+},
+{
+"id": 20,
+"category": "memorialdaydrill2",
+"matrix_id": 102,
+"eng": "תרגיל יום הזיכרון",
+"heb": "תרגיל יום הזיכרון"
+},
+{
+"id": 21,
+"category": "earthquakedrill1",
+"matrix_id": 103,
+"eng": "Earthquake drill",
+"heb": "תרגיל רעידת אדמה"
+},
+{
+"id": 22,
+"category": "earthquakedrill2",
+"matrix_id": 103,
+"eng": "Earthquake drill",
+"heb": "תרגיל רעידת אדמה"
+},
+{
+"id": 23,
+"category": "cbrnedrill",
+"matrix_id": 104,
+"eng": "תרגיל אירוע רדיולוגי",
+"heb": "תרגיל אירוע רדיולוגי"
+},
+{
+"id": 24,
+"category": "terrorattackdrill",
+"matrix_id": 113,
+"eng": "Terrorist infiltration drill",
+"heb": "תרגיל חדירת מחבלים"
+},
+{
+"id": 25,
+"category": "tsunamidrill",
+"matrix_id": 105,
+"eng": "Tsunami drill",
+"heb": "תרגיל צונאמי"
+},
+{
+"id": 26,
+"category": "hazmatdrill",
+"matrix_id": 107,
+"eng": "Hazardous Materials drill",
+"heb": "תרגיל חומרים מסוכנים"
+},
+{
+"id": 27,
+"category": "updatedrill",
+"matrix_id": 110,
+"eng": "תרגיל עדכון",
+"heb": "תרגיל עדכון"
+},
+{
+"id": 28,
+"category": "flashdrill",
+"matrix_id": 110,
+"eng": "תרגיל מבזק",
+"heb": "תרגיל מבזק"
+}
+]
+}

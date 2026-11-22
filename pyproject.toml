@@ -1,0 +1,18 @@
+[project]
+name = "home-front-command-mcp"
+version = "1.0.0"
+description = "MCP server: Israel Home Front Command (Pikud HaOref) active alerts, alert history, protection times and official guidelines, with a spoken-sentence field for voice assistants"
+readme = "README.md"
+license = "MIT"
+requires-python = ">=3.11"
+dependencies = ["mcp>=1.10,<2", "httpx>=0.27"]
+
+[project.scripts]
+home-front-command-mcp = "home_front_command_mcp.server:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/home_front_command_mcp"]

@@ -1,0 +1,328 @@
+{
+"source": "https://www.oref.org.il/alerts/RemainderConfig_eng.json",
+"fetched": "2026-11-22",
+"instructions": [
+{
+"cat": "missilealert",
+"title_he": "ירי רקטות וטילים - היכנסו למרחב המוגן",
+"title": "Missile and rocket attack - Enter protected space",
+"instructions": "Enter a protected space within the time you have available to reach shelter.",
+"url": "https://www.oref.org.il/eng/articles/security-threats/rockets-missles/1106/"
+},
+{
+"cat": "uav",
+"title_he": "כלי טייס עוין - היכנסו מייד למרחב המוגן",
+"title": "Hostile aerial vehicle - Enter protected space now",
+"instructions": "Enter a protected space as quickly as possible.",
+"url": "https://www.oref.org.il/eng/articles/security-threats/hostile-aerial-vehicle/1201/"
+},
+{
+"cat": "update",
+"title_he": "אירוע כלי טיס עוין הסתיים",
+"title": "Hostile aerial vehicle event has ended",
+"instructions": "Following the activation of an alert on the infiltration of a hostile aerial vehicle into Israeli skies - the event has ended.",
+"url": "https://www.oref.org.il/eng/articles/security-threats/hostile-aerial-vehicle/1201/"
+},
+{
+"cat": "terrorattack",
+"title_he": "חדירת מחבלים - היכנסו מייד למרחב המוגן",
+"title": "Terrorist infiltration - Enter protected space now",
+"instructions": "Enter a protected space immediately, close the door tightly, and sit below the window line. If there is no protected space - enter a hiding place. Do not exit until you receive an explicit guideline from official authorities.",
+"url": "https://www.oref.org.il/eng/articles/security-threats/terrorist-infiltration/1400/"
+},
+{
+"cat": "update",
+"title_he": "הוסר החשש לחדירת מחבלים",
+"title": "Terrorist infiltration threat has been removed",
+"instructions": "Fear of a terrorist infiltration event has been ruled out; residents may leave their homes and travel in the area without restriction.",
+"url": "https://www.oref.org.il/eng/articles/security-threats/terrorist-infiltration/1400/"
+},
+{
+"cat": "flash",
+"title_he": "אירוע חדירת מחבלים",
+"title": "Terrorist infiltration event",
+"instructions": "Terrorist infiltration has been identified in your area. Stay in the protected space and sit below the window line. Travelling in the area is prohibited. The IDF and security forces are handling the event.",
+"url": "https://www.oref.org.il/eng/articles/security-threats/terrorist-infiltration/1400/"
+},
+{
+"cat": "update",
+"title_he": "אירוע חדירת מחבלים הסתיים",
+"title": "Terrorist infiltration event has ended",
+"instructions": "The terrorist infiltration event in your area has ended. You may leave your homes and travel in the area without restriction.",
+"url": "https://www.oref.org.il/eng/articles/security-threats/terrorist-infiltration/1400/"
+},
+{
+"cat": "earthquakealert1",
+"title_he": "רעידת אדמה - צאו לשטח פתוח",
+"title": "Earthquake - Go out to an open area",
+"instructions": "Go out immediately to an open area. If not possible, enter a residential protected room (Mamad) and leave the door open or go out to the stairwell. Only if these actions are not possible - sit in an inner corner of the room or under heavy furniture and protect your head with your hands.",
+"url": "https://www.oref.org.il/eng/articles/natural-disaster/earthquake/2402/"
+},
+{
+"cat": "earthquakealert2",
+"title_he": "רעידת אדמה - צאו לשטח פתוח",
+"title": "Earthquake - Go out to an open area",
+"instructions": "Go out immediately to an open area. If not possible, enter a residential protected room (Mamad) and leave the door open or go out to the stairwell. Only if these actions are not possible - sit in an inner corner of the room or under heavy furniture and protect your head with your hands.",
+"url": "https://www.oref.org.il/eng/articles/natural-disaster/earthquake/2402/"
+},
+{
+"cat": "hazmat",
+"title_he": "אירוע חומרים מסוכנים - הסתגרו מייד במבנה",
+"title": "HAZMAT incident - Seclude indoors immediately",
+"instructions": "Due to fear of hazardous materials incident, enter a building immediately - close doors and windows and turn off air conditioner. Do not leave the building until you receive explicit guideline. Travel in the area is prohibited. In open area - move away from the area. If traveling in vehicle - stop on the side and close windows and air conditioning",
+"url": "https://www.oref.org.il/eng/articles/security-threats/hazardous-materials/1304/"
+},
+{
+"cat": "flash",
+"title_he": "אירוע חומרים מסוכנים - המשך הסתגרות במבנה",
+"title": "Continue staying secluded indoors!",
+"instructions": "Due to fear of a hazardous materials incident in your area, continue staying indoors, make sure the doors and windows are closed, and the air conditioner is turned off. Do not leave the building until you receive an explicit guideline.",
+"url": "https://www.oref.org.il/eng/articles/security-threats/hazardous-materials/1304/"
+},
+{
+"cat": "update",
+"title_he": "שלילת סכנת חומרים מסוכנים",
+"title": "Negation of hazardous materials danger",
+"instructions": "Based on the risk assessment performed, there is no danger in your area. You may now stop staying secluded indoors.",
+"url": "https://www.oref.org.il/eng/articles/security-threats/hazardous-materials/1304/"
+},
+{
+"cat": "update",
+"title_he": "סיום אירוע חומרים מסוכנים",
+"title": "End of hazardous materials incident",
+"instructions": "Following the handling of the hazardous materials incident in your area - the danger has passed and you may now stop staying secluded indoors.",
+"url": "https://www.oref.org.il/eng/articles/security-threats/hazardous-materials/1304/"
+},
+{
+"cat": "tsunami",
+"title_he": "חשש לצונמי - התרחקו מייד מחוף הים",
+"title": "Fear of Tsunami - Move away from the beach now",
+"instructions": "Immediately move at least one kilometer away from the beach, and if not possible, go up to the fourth floor or higher in a nearby building.",
+"url": "https://www.oref.org.il/eng/articles/natural-disaster/tsunami/2450/"
+},
+{
+"cat": "flash",
+"title_he": "היכנסו מייד למרחב המוגן",
+"title": "Enter the protected space immediately!",
+"instructions": "Enter the protected space immediately and stay there until you receive an explicit guideline. Leaving the protected space at this time is life-threatening.",
+"url": null
+},
+{
+"cat": "flash",
+"title_he": "המשך שהייה במרחב המוגן",
+"title": "Continue staying in the protected space!",
+"instructions": "Stay in the protected space until you receive an explicit guideline.",
+"url": null
+},
+{
+"cat": "flash",
+"title_he": "סיום שהייה במרחב המוגן",
+"title": "End of stay in the protected space",
+"instructions": "You may exit the protected space.",
+"url": null
+},
+{
+"cat": "flash",
+"title_he": "יציאה ממרחב מוגן ושהייה בסמוך",
+"title": "Exiting the protected space and staying nearby",
+"instructions": "You may exit the protected space, but must stay near it and avoid travel outdoors unless for an essential purpose.",
+"url": null
+},
+{
+"cat": "flash",
+"title_he": "שהו בסמוך למרחב המוגן",
+"title": "Stay near the protected space",
+"instructions": "Stay near a protected space that allows you to reach it within a few minutes, and avoid non-essential travel.",
+"url": null
+},
+{
+"cat": "flash",
+"title_he": "המשך שהייה בסמוך למרחב המוגן",
+"title": "Continue staying near the protected space",
+"instructions": "Continue to stay near a protected space and avoid staying or traveling outdoors unless for an essential purpose.",
+"url": null
+},
+{
+"cat": "update",
+"title_he": "סיום שהייה בסמוך למרחב המוגן",
+"title": "End of stay near the protected space",
+"instructions": "There is no longer a need to stay near a protected space.",
+"url": null
+},
+{
+"cat": "flash",
+"title_he": "התקרבו למרחב מוגן",
+"title": "Move closer to the protected space",
+"instructions": "In the next few minutes, alerts are expected in your area. You must improve your location to the optimal protection near you. In the event of an alert, enter the protected space and stay there until you receive an explicit guideline.",
+"url": null
+},
+{
+"cat": "flash",
+"title_he": "שהו בסמוך למרחב מוגן",
+"title": "Stay near the protected space",
+"instructions": "Stay near a protected space that can be reached within the time available to reach shelter, and avoid travel that is not for an essential purpose.",
+"url": null
+},
+{
+"cat": "flash",
+"title_he": "סכנת פיצוץ והדף חזק - המשך שהייה במרחב המוגן",
+"title": "Continue staying in the protected space",
+"instructions": "Due to the danger of explosion and strong blast at a factory in your area, stay in the protected space until you receive an explicit guideline.",
+"url": "https://www.oref.org.il/eng/articles/security-threats/hazardous-materials/1305/"
+},
+{
+"cat": "update",
+"title_he": "סיום אירוע סכנת פיצוץ והדף",
+"title": "End of explosion and blast danger event",
+"instructions": "The explosion and blast danger event at the factory in your area has ended. You may leave the protected space.",
+"url": "https://www.oref.org.il/eng/articles/security-threats/hazardous-materials/1305/"
+},
+{
+"cat": "flash",
+"title_he": "הגברת מוכנות",
+"title": "Increasing readiness",
+"instructions": "Due to preparations for a significant threat, it is required to follow the Home Front Command guidelines currently being broadcast across all media outlets.",
+"url": null
+},
+{
+"cat": "update",
+"title_he": "האירוע הסתיים",
+"title": "The event has ended",
+"instructions": "Those staying in the protected space may exit. Upon receiving a guideline or alert, act according to Home Front Command guidelines.",
+"url": null
+},
+{
+"cat": "flash",
+"title_he": "סכנת פיצוץ והדף חזק",
+"title": "Danger of explosion and strong blast",
+"instructions": "Due to the danger of explosion and strong blast at a factory in your area, enter the protected space immediately until you receive an explicit guideline.",
+"url": "https://www.oref.org.il/eng/articles/security-threats/hazardous-materials/1305/"
+},
+{
+"cat": "flash",
+"title_he": "אירוע רדיולוגי - הסתגרו במבנה",
+"title": "Radiological incident- Seclude indoors immediately",
+"instructions": "Following the incident at Negev Nuclear Research Center, enter a building, close doors and windows and turn off air conditioner. Do not leave the building until an explicit guideline. Travel in the area is prohibited. Security forces are operating on-site performing all necessary actions.",
+"url": null
+},
+{
+"cat": "flash",
+"title_he": "אירוע רדיולוגי - הסתגרו במבנה!",
+"title": "Radiological incident- Seclude indoors immediately!",
+"instructions": "Following the incident at Soreq Nuclear Research Center, enter a building, close doors and windows and turn off air conditioner. Do not leave the building until an explicit guideline. Travel in the area is prohibited. Security forces are operating on-site performing all necessary actions.",
+"url": null
+},
+{
+"cat": "update",
+"title_he": "הודעה לציבור:",
+"title": "Public announcement:",
+"instructions": "Following the event in the Negev Nuclear Research Center area - the public is not required to take special actions. Continue to stay updated on guidelines distributed by official sources.",
+"url": null
+},
+{
+"cat": "update",
+"title_he": "הודעה לציבור",
+"title": "Public announcement",
+"instructions": "Following the event in the Soreq Nuclear Research Center area - the public is not required to take special actions. Continue to stay updated on guidelines distributed by official sources.",
+"url": null
+},
+{
+"cat": "update",
+"title_he": "התרעת שווא על רעידת אדמה",
+"title": "False earthquake alert",
+"instructions": "An inspection by the Geological Institute shows that no earthquake occurred in our area. You may return to full routine.",
+"url": null
+},
+{
+"cat": "update",
+"title_he": "רעידת אדמה - הנחיות חזרה למבנים",
+"title": "Following an Earthquake –  Returning to Buildings",
+"instructions": "Following the earthquake, you may return to homes that have no visible damage. In the event of another earthquake, act according to the guidelines and reach a safe place immediately.",
+"url": null
+},
+{
+"cat": "flash",
+"title_he": "רעידת אדמה - הישארו בשטח פתוח",
+"title": "Earthquake - Stay in an open area",
+"instructions": "Following the earthquake, stay in an open area until you receive an explicit guideline. Stay away from buildings, trees, and power poles, and follow the guidelines of the security and rescue forces in the field. Stay updated on guidelines distributed by official sources.",
+"url": "https://www.oref.org.il/eng/articles/natural-disaster/earthquake/2402/"
+},
+{
+"cat": "flash",
+"title_he": "התקרבו למרחב המוגן",
+"title": "Move toward a protected space",
+"instructions": "In the next few minutes, alerts are expected in your area. You must improve your location to the optimal protection near you. In the event of an alert, enter the protected space and stay there for 10 minutes.",
+"url": null
+},
+{
+"cat": "flash",
+"title_he": "הגברת המוכנות",
+"title": "Increasing readiness",
+"instructions": "Due to security situation, there is potential threat to Israeli home front. Advance personal and family readiness and preparedness, remain alert: Identify and prepare your optimal protected space, install Home Front Command app, and make sure all family members know the guidelines.",
+"url": null
+},
+{
+"cat": "flash",
+"title_he": "אירוע צונמי - הישארו הרחק מחוף הים",
+"title": "Fear of Tsunami - Stay far away from the beach",
+"instructions": "Following a tsunami event that occurred on Israel's shores, do not return to areas near the coast for the next 12 hours. Security forces are working to rescue trapped individuals and provide aid to the injured. Continue to stay updated on messages distributed through the media.",
+"url": "https://www.oref.org.il/eng/articles/natural-disaster/tsunami/2450/"
+},
+{
+"cat": "update",
+"title_he": "הסרת אזהרת צונמי",
+"title": "Removal of tsunami warning",
+"instructions": "An alert regarding the fear of a tsunami was activated. A situational assessment shows that a tsunami is not expected to hit our area. You may return to full routine.",
+"url": null
+},
+{
+"cat": "update",
+"title_he": "סיום אירוע בקרייה למחקר גרעיני בנגב",
+"title": "End of incident at Negev Nuclear Research Center",
+"instructions": "Following the event that occurred at the Negev Nuclear Research Center, you may now stop staying secluded indoors.",
+"url": null
+},
+{
+"cat": "update",
+"title_he": "סיום אירוע במרכז למחקר גרעיני בשורק",
+"title": "End of incident at Soreq Nuclear Research Center",
+"instructions": "Following the event that occurred at the Soreq Nuclear Research Center, you may now stop staying secluded indoors.",
+"url": null
+},
+{
+"cat": "flash",
+"title_he": "שיבושים בצופרים",
+"title": "Sirens disruptions",
+"instructions": "Sirens from the Home Front Command may not be heard in your area. Alerts can be received via the app, the Home Front Command website, and media outlets.",
+"url": null
+},
+{
+"cat": "flash",
+"title_he": "שיבושים במערך הצופרים - שהו במרחב המוגן",
+"title": "Stay in the protected space",
+"instructions": "There are disruptions in the siren system and alerts may not be received. Stay in the protected space until the ability to distribute alerts is restored.",
+"url": null
+},
+{
+"cat": "update",
+"title_he": "הצופרים חזרו לפעול",
+"title": "Siren system has returned to operation",
+"instructions": "The Home Front Command siren system has returned to normal operation.",
+"url": null
+},
+{
+"cat": "flash",
+"title_he": "הגברת מוכנות:",
+"title": "Increasing readiness",
+"instructions": "Following the security situation, make sure you know the optimal protected space near you, install the Home Front Command app, and avoid non-essential travel. Continue to follow guidelines, and consume information via official channels.",
+"url": null
+},
+{
+"cat": "flash",
+"title_he": "איום מלבנון - התקרבו למרחב מוגן",
+"title": "Threat from Lebanon- Move close to protected space",
+"instructions": "A launch toward your area has been identified. Alerts may be received within a short time; move closer to a protected space now. In the event of an alert, enter the protected space and remain there until you receive an explicit guideline.",
+"url": null
+}
+]
+}

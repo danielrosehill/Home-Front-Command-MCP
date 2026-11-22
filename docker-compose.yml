@@ -1,0 +1,14 @@
+# Generic deployment. The host must have an Israeli IP (oref.org.il is geofenced).
+# Builds from the release tag; use `build: .` for a local checkout.
+services:
+  home-front-command-mcp:
+    build:
+      context: https://github.com/danielrosehill/Home-Front-Command-MCP.git#v1.0
+    container_name: home-front-command-mcp
+    restart: unless-stopped
+    environment:
+      # Default areas, Hebrew or English, comma-separated; empty = whole country.
+      - HFC_AREAS=${HFC_AREAS:-Jerusalem}
+      - TZ=Asia/Jerusalem
+    ports:
+      - "127.0.0.1:${PORT:-8000}:8000"
